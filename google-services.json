@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144640254814",
+    "project_id": "react-fb-auth-1b0f5",
+    "storage_bucket": "react-fb-auth-1b0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144640254814:android:ea85589b71f4e39dba65cf",
+        "android_client_info": {
+          "package_name": "com.yourcompany.yourappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144640254814-0h2tl0nfp4s1ov01bfgquj75aabqt36v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.yourappname",
+            "certificate_hash": "9674d8b096107ce0573abffc98927886cfc36ba0"
+          }
+        },
+        {
+          "client_id": "144640254814-k3b2ivp1ig77q1tre0rtkm02boe80aqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0nwRP2DKQz6ETJBP5bXUCHwzSzq67pUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144640254814-k3b2ivp1ig77q1tre0rtkm02boe80aqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
