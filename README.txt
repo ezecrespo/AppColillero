@@ -1,0 +1,3 @@
+-Clonar el repositorio en su entorno local ir a consola.
+-Ir a consola y posicionarse en la carpeta que contiene el proyecto.
+-Ejecutar el comando "npm install" para que se instalen las dependencias del proyecto que estan detalladas en el archivo package.json.
